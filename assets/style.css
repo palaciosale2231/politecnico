@@ -1,0 +1,16 @@
+.contenedor{
+    display: flex;
+    border: 20px solid rgb(22, 24, 23);
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
+header {
+    text-align: center;
+    background-color: rgb(137, 182, 182);
+    margin-bottom: auto;
+    padding: auto;
+}
+nav {
+    background-color: rgb(17, 17, 7);
+}
